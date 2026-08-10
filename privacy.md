@@ -92,8 +92,7 @@ and you can refuse or revoke any of them in your device settings — the app sti
 you just cannot upload.
 
 - **Camera** — to record a clip.
-- **Microphone** — to capture audio while recording, which is the entire point of a
-  track-ID app.
+- **Microphone** — to capture audio while recording. Without it a clip cannot be identified.
 - **Photo library** — to let you choose a video you already recorded. We read only the
   file you pick. We do not scan, index, or upload the rest of your library.
 
@@ -101,7 +100,7 @@ you just cannot upload.
 
 ## What is public and what is not
 
-This section matters more than any other, so it is deliberately blunt.
+This section matters more than any other in this policy, and it is written directly.
 
 **Public — visible to anyone, including people with no TrackID account:**
 
@@ -139,8 +138,8 @@ Under GDPR we need a lawful basis for each use. Ours are:
 | Keep the service secure, prevent abuse, act on reports, moderate content | Our legitimate interests (Art. 6(1)(f)) — running a community that is not hostile to be in |
 | Keep records we are legally required to keep, respond to lawful requests | Legal obligation (Art. 6(1)(c)) |
 
-We do not rely on consent for anything today, because we do not do anything that requires
-it. If that changes — see **Advertising** below — we will ask you properly first.
+We do not rely on consent for anything today, because we do nothing that requires it. If that
+changes — see **Advertising** below — we will ask for your consent first.
 
 ---
 
@@ -178,7 +177,8 @@ International Data Transfer Addendum.
 identifier is read, and no data is shared with any advertising network.
 
 We may introduce advertising in future — it is a plausible way to cover hosting costs for a
-free app. If we do, we will not do it quietly. Before any advertising launches we will:
+free app. If we do, the change will be announced rather than left for you to discover. Before
+any advertising launches we will:
 
 1. Update this policy and change the "last updated" date, describing exactly which
    advertising provider we use and what it receives.
@@ -225,8 +225,8 @@ If you are in the UK or EEA, you have the right to:
   chance to fix it.
 
 To exercise any of these, email ewan.nicol55@gmail.com. We will respond within one month, as
-GDPR requires. We will not charge you, and we will not make the app worse for you because
-you asked.
+GDPR requires. We will not charge you, and you will not receive a worse service for having
+asked.
 
 **Deleting your account.** You can do this yourself, in the app: **Settings → Delete account**.
 It takes effect immediately, we do not ask you why, and there is nothing to wait for. If you
@@ -275,4 +275,5 @@ Past versions are available on request.
 
 Questions, requests, or complaints: ewan.nicol55@gmail.com
 
-We are a small operation, not a support department, but a real person reads that address.
+TrackID is operated by one person rather than a support team. That address is monitored and
+answered.
