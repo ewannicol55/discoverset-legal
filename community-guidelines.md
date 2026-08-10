@@ -20,7 +20,7 @@ suggestions, usernames, bios and avatars.
 ## The one-line version
 
 Post clips of music you want identified. Help other people find theirs. Do not film people
-who did not want to be filmed, and do not be a dick in the threads.
+who did not want to be filmed, and be decent to the people in the threads.
 
 ---
 
