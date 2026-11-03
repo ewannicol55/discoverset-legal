@@ -6,10 +6,11 @@ title: Privacy Policy
 # DiscoverSet Privacy Policy
 
 **Effective:** 7 August 2026
-**Last updated:** 10 August 2026
+**Last updated:** 3 November 2026
 
-DiscoverSet is an app for identifying tracks played at DJ sets and raves. You upload a short
-clip, and other people help you work out what the track is.
+DiscoverSet is an app and website, at [discoverset.com](https://discoverset.com), for
+identifying tracks played at DJ sets and raves. You upload a short clip, and other people help
+you work out what the track is. This policy covers both; where they differ, it says so.
 
 This policy explains what we collect, why, who can see it, and what you can do about it.
 We have tried to write it in plain language rather than legal boilerplate. If anything here
@@ -83,6 +84,17 @@ not track you across other apps or websites. We do not collect your location —
 a clip is text you typed, not a GPS reading. We do not ask for your phone number, date of
 birth, or payment details, because nothing in DiscoverSet costs money.
 
+### On the website
+
+The website uses no cookies. To keep you signed in, it saves a sign-in token, along with your display settings, in your browser's
+own storage, the same job the app does on your phone. It is strictly necessary for the site
+to work, it never leaves your browser except to talk to our own backend, and signing out
+removes it. Your browser's settings for this site will also clear it.
+
+Like any website, the servers that deliver it see your IP address and browser details when
+you visit. Our host keeps these in short-lived logs for security and to keep the site
+running, and we do not use them for anything else.
+
 ---
 
 ## Device permissions
@@ -95,6 +107,9 @@ you just cannot upload.
 - **Microphone** — to capture audio while recording. Without it a clip cannot be identified.
 - **Photo library** — to let you choose a video you already recorded. We read only the
   file you pick. We do not scan, index, or upload the rest of your library.
+
+On the website there is no library access at all: your browser's own file picker hands us
+only the video you choose, and recording uses your browser's camera prompt.
 
 ---
 
@@ -156,6 +171,10 @@ three sorts of recipient only.
 - **Supabase** — hosts our database, file storage and authentication. Everything described
   in this policy lives on Supabase infrastructure. Our project is hosted in Supabase's
   West Europe (London) region.
+- **Vercel** — hosts the website. It sees your IP address and browser details when you
+  visit, as described above.
+- **Resend** — sends our account emails, such as sign-up confirmations and password
+  resets. It receives your email address and the content of those emails, nothing else.
 - **Apple and Google** — distribute the app and tell us aggregate download and crash
   numbers. Their handling of your data as an App Store or Play Store customer is governed
   by their own privacy policies, not this one.
@@ -164,8 +183,8 @@ three sorts of recipient only.
 may have to disclose information. Where we are permitted to tell you, we will.
 
 **International transfers.** Your data is stored in Supabase's West Europe (London) region,
-in the United Kingdom. Supabase is a US company and its staff may access infrastructure from
-outside your country for support and maintenance. Where that involves a transfer out of the
+in the United Kingdom. Supabase, Vercel and Resend are US companies, and their staff or systems may handle data
+outside your country to run their services. Where that involves a transfer out of the
 UK/EEA it is covered by the European Commission's Standard Contractual Clauses and the UK
 International Data Transfer Addendum.
 

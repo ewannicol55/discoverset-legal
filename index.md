@@ -5,7 +5,7 @@ title: Legal
 
 # DiscoverSet
 
-DiscoverSet is an app for identifying tracks played at DJ sets and raves. You upload a short
+DiscoverSet is an app and website, at [discoverset.com](https://discoverset.com), for identifying tracks played at DJ sets and raves. You upload a short
 clip, and other people help you work out what the track is.
 
 ## Legal documents
