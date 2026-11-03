@@ -29,7 +29,7 @@ you are in the EEA — we are the "data controller" for the information describe
 | | |
 |---|---|
 | **We collect** | Your email, your profile, the clips you upload, and what you do in the app |
-| **We do not** | Run ads, use tracking SDKs, run third-party analytics, or sell your data |
+| **We do not** | Run ads, use tracking SDKs or cookies, track you across other sites, or sell your data |
 | **Most of what you post is public** | Clips, profile, suggestions, votes, likes and points are visible to anyone, including people without an account |
 | **What stays private** | Your email address, your password, and your friend list |
 | **You can delete everything** | Ask us and your account and content are removed |
@@ -78,8 +78,9 @@ your own history.
 
 ### Information we do not collect
 
-We do not use third-party analytics, advertising SDKs, crash reporting services, social
-login providers, or cookies for tracking. We do not build advertising profiles, and we do
+We do not use advertising SDKs, crash reporting services, social login providers, or
+cookies for tracking. The website counts visits in an anonymous way, described under "On the
+website" below; the app records no analytics at all. We do not build advertising profiles, and we do
 not track you across other apps or websites. We do not collect your location — the venue on
 a clip is text you typed, not a GPS reading. We do not ask for your phone number, date of
 birth, or payment details, because nothing in DiscoverSet costs money.
@@ -94,6 +95,14 @@ removes it. Your browser's settings for this site will also clear it.
 Like any website, the servers that deliver it see your IP address and browser details when
 you visit. Our host keeps these in short-lived logs for security and to keep the site
 running, and we do not use them for anything else.
+
+**Visitor counts.** To understand how people find and use the site, we use Vercel Web
+Analytics. It records which pages are viewed, the site that referred you, and your general
+location (country), device type, browser and operating system. It uses no cookies, does not
+follow you across other websites, and does not store your IP address; visits are counted
+using a short-lived, anonymised identifier that resets every day and cannot be used to
+identify you. We use these figures only in aggregate, to improve the site. Our legal basis is
+our legitimate interest in understanding how the site is used.
 
 ---
 
@@ -171,8 +180,8 @@ three sorts of recipient only.
 - **Supabase** — hosts our database, file storage and authentication. Everything described
   in this policy lives on Supabase infrastructure. Our project is hosted in Supabase's
   West Europe (London) region.
-- **Vercel** — hosts the website. It sees your IP address and browser details when you
-  visit, as described above.
+- **Vercel** — hosts the website and provides its anonymous visitor counts. It sees your IP
+  address and browser details when you visit, as described above.
 - **Resend** — sends our account emails, such as sign-up confirmations and password
   resets. It receives your email address and the content of those emails, nothing else.
 - **Apple and Google** — distribute the app and tell us aggregate download and crash
