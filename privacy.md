@@ -3,19 +3,19 @@ layout: default
 title: Privacy Policy
 ---
 
-# SetID Privacy Policy
+# DiscoverSet Privacy Policy
 
 **Effective:** 7 August 2026
 **Last updated:** 10 August 2026
 
-SetID is an app for identifying tracks played at DJ sets and raves. You upload a short
+DiscoverSet is an app for identifying tracks played at DJ sets and raves. You upload a short
 clip, and other people help you work out what the track is.
 
 This policy explains what we collect, why, who can see it, and what you can do about it.
 We have tried to write it in plain language rather than legal boilerplate. If anything here
 is unclear, email us and we will explain it.
 
-**Who is responsible for your data.** SetID is operated by Ewan Nicol, based in the
+**Who is responsible for your data.** DiscoverSet is operated by Ewan Nicol, based in the
 United Kingdom. Under the UK General Data Protection Regulation — and the EU GDPR, where
 you are in the EEA — we are the "data controller" for the information described here.
 
@@ -44,7 +44,7 @@ Supabase. We never see or store your password in a readable form. We need this t
 your account and let you sign back in.
 
 **Profile information.** A username, and optionally a display name, a short bio, and an
-avatar image. Your username is required because content in SetID is attributed — people
+avatar image. Your username is required because content in DiscoverSet is attributed — people
 need to know who uploaded a clip and who suggested a track.
 
 **Clips and the information attached to them.** The video itself, a thumbnail generated
@@ -60,7 +60,7 @@ places where filming was not allowed.
 **Your contributions to the community.** Track suggestions, votes on other people's
 suggestions, and likes.
 
-### Information created as you use SetID
+### Information created as you use DiscoverSet
 
 **Your social graph.** Which genre communities you follow, your friendships, and any accounts
 you have blocked.
@@ -69,7 +69,7 @@ you have blocked.
 reason you picked, any note you added, and who you are. Reports are visible to us and to you,
 never to the person reported.
 
-**Your points.** SetID awards points for helping identify tracks. We keep a record of
+**Your points.** DiscoverSet awards points for helping identify tracks. We keep a record of
 each award — what it was for and when — so that your total is auditable and you can see
 your own history.
 
@@ -81,13 +81,13 @@ We do not use third-party analytics, advertising SDKs, crash reporting services,
 login providers, or cookies for tracking. We do not build advertising profiles, and we do
 not track you across other apps or websites. We do not collect your location — the venue on
 a clip is text you typed, not a GPS reading. We do not ask for your phone number, date of
-birth, or payment details, because nothing in SetID costs money.
+birth, or payment details, because nothing in DiscoverSet costs money.
 
 ---
 
 ## Device permissions
 
-SetID asks for three permissions on your device. Each is used only for the stated purpose,
+DiscoverSet asks for three permissions on your device. Each is used only for the stated purpose,
 and you can refuse or revoke any of them in your device settings — the app still works,
 you just cannot upload.
 
@@ -102,7 +102,7 @@ you just cannot upload.
 
 This section matters more than any other in this policy, and it is written directly.
 
-**Public — visible to anyone, including people with no SetID account:**
+**Public — visible to anyone, including people with no DiscoverSet account:**
 
 - Your username, display name, bio and avatar
 - Every clip you upload, including its video file, thumbnail, artist, venue, event date
@@ -122,7 +122,7 @@ This section matters more than any other in this policy, and it is written direc
 
 **One specific technical point you should understand.** Clip videos, thumbnails and avatar
 images are stored in public storage and served over ordinary web links. Anyone who has one
-of those links can open it directly in a browser without a SetID account. Deleting a clip
+of those links can open it directly in a browser without a DiscoverSet account. Deleting a clip
 removes the link, but if someone has already downloaded or shared the file, we cannot pull
 that copy back. Treat anything you upload as public and permanent.
 
@@ -148,7 +148,7 @@ changes — see **Advertising** below — we will ask for your consent first.
 We do not sell your data. We do not share it with advertisers or data brokers. It goes to
 three sorts of recipient only.
 
-**Other SetID users, and the public.** As set out in the section above.
+**Other DiscoverSet users, and the public.** As set out in the section above.
 
 **Service providers who run our infrastructure.** These act on our instructions as
 "processors" and cannot use your data for their own purposes:
@@ -173,7 +173,7 @@ International Data Transfer Addendum.
 
 ## Advertising
 
-**SetID does not show ads today.** There is no advertising SDK in the app, no ad
+**DiscoverSet does not show ads today.** There is no advertising SDK in the app, no ad
 identifier is read, and no data is shared with any advertising network.
 
 We may introduce advertising in future — it is a plausible way to cover hosting costs for a
@@ -250,7 +250,7 @@ of becoming aware, as the law requires.
 
 ## Children
 
-SetID is not for children. You must be **16 or older** to create an account. The app is
+DiscoverSet is not for children. You must be **16 or older** to create an account. The app is
 about club and festival music and the content people post reflects that.
 
 If we learn that an account belongs to someone under 16, we will delete it. If you are a
@@ -275,5 +275,5 @@ Past versions are available on request.
 
 Questions, requests, or complaints: ewan.nicol55@gmail.com
 
-SetID is operated by one person rather than a support team. That address is monitored and
+DiscoverSet is operated by one person rather than a support team. That address is monitored and
 answered.

@@ -1,10 +1,10 @@
-# setid-legal
+# discoverset-legal
 
-The public home of SetID's privacy policy and community guidelines, served at
-<https://ewannicol55.github.io/setid-legal/>. The app links to these pages from Settings,
+The public home of DiscoverSet's privacy policy and community guidelines, served at
+<https://ewannicol55.github.io/discoverset-legal/>. The app links to these pages from Settings,
 and the App Store listing points at the privacy policy.
 
-**These files are copies.** The source of truth is `legal/` in the SetID app repository —
+**These files are copies.** The source of truth is `legal/` in the DiscoverSet app repository —
 that is where they are written and reviewed alongside the code they describe. Editing a
 document here without editing it there will leave the two out of step, and the version in the
 app repo is the one that gets updated when the app changes.

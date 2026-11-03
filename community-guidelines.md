@@ -3,12 +3,12 @@ layout: default
 title: Community Guidelines
 ---
 
-# SetID Community Guidelines
+# DiscoverSet Community Guidelines
 
 **Effective:** 7 August 2026
 **Last updated:** 10 August 2026
 
-SetID exists to do one thing well: help people find out what that track was. It works
+DiscoverSet exists to do one thing well: help people find out what that track was. It works
 because strangers take the time to answer, and that only continues while this is a place
 people want to spend time in.
 
@@ -33,7 +33,7 @@ who did not want to be filmed, and be decent to the people in the threads.
 
 ## What does not
 
-**Content that is not about the music.** SetID is not a general video app. Clips that
+**Content that is not about the music.** DiscoverSet is not a general video app. Clips that
 are not attempts to identify a track will be removed.
 
 **Sexual content and nudity.** No explicit content, no sexualised content involving anyone
@@ -48,7 +48,7 @@ it. A clip that happens to include a crowd is fine. A clip that is about the dru
 ethnicity, national origin, religion, disability, age, sex, gender identity or sexual
 orientation. Disagreeing about a track ID is normal. Going after the person is not.
 
-**Filming people who did not agree to it.** This rule is specific to what SetID does, and it
+**Filming people who did not agree to it.** This rule is specific to what DiscoverSet does, and it
 matters more here than most. Point the camera at the stage, the crowd generally, or your own
 group. Do not post a clip that focuses on an identifiable person who plainly did not want to
 be recorded, and do not post one to mock someone. If someone asks us to remove a clip they
@@ -90,13 +90,13 @@ You can also email ewan.nicol55@gmail.com — use that if you cannot reach the c
 or if the problem is an account rather than one thing it posted.
 
 If a clip shows you and you want it gone, say so. You do not need to point to a rule, and you
-do not need a SetID account to ask.
+do not need a DiscoverSet account to ask.
 
 ---
 
 ## Blocking someone
 
-If a specific person is making SetID worse for you, block them. Tap **Block** on their
+If a specific person is making DiscoverSet worse for you, block them. Tap **Block** on their
 profile, or use the **…** button on any of their clips.
 
 Once blocked, you stop seeing their clips and suggestions everywhere in the app — Discover,
